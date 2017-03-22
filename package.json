@@ -1,0 +1,22 @@
+{
+  "name": "yun",
+  "version": "1.0.0",
+  "description": "A base front end library.",
+  "main": "dist/yun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunyChan/yun.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "yuny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YunyChan/yun/issues"
+  },
+  "homepage": "https://github.com/YunyChan/yun#readme"
+}
